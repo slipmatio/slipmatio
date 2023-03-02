@@ -1,2 +1,3 @@
-# slipmatio
-Public repository for issues and development
+# Slipmat.io Development
+
+This is our public repository for issues and development.
